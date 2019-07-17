@@ -1,2 +1,8 @@
 1. Objects vs references in Java - 
 
+https://stackoverflow.com/questions/9247886/what-is-difference-between-references-and-objects-in-java
+
+2. How ojbects in Java communicate with each other
+
+https://www.j2eeonline.com/java-tm-fundamentals-I/module3/object-communication-mechanism.jsp
+
