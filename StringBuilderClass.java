@@ -16,5 +16,7 @@ public class StringBuilderClass {
         System.out.println(bld);
         bld = bld.reverse();
         System.out.println(bld);
+        bld = bld.append(42).insert(2,"X").reverse().deleteCharAt(builder.length()-1).append('s');
+        System.out.println(bld);
     }
 }
