@@ -12,5 +12,9 @@ public class StringBuilderClass {
         System.out.println(bld);
         bld = bld.append(bb);
         System.out.println(bld);
+        bld = bld.deleteCharAt(5);
+        System.out.println(bld);
+        bld = bld.reverse();
+        System.out.println(bld);
     }
 }
