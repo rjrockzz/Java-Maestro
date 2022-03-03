@@ -13,7 +13,6 @@ public class Duplicates {
             set.add(nums[i]);
         }
         return false;
-
     }
 
     public static void main(String[] args) {
