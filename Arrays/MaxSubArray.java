@@ -1,3 +1,6 @@
+/*
+Sliding Window Solution
+ */
 public class MaxSubArray {
     public static int MaxSub(int[] nums){
         if(nums.length == 0) return 0;
@@ -10,6 +13,6 @@ public class MaxSubArray {
     }
 
     public static void main(String[] args) {
-        System.out.println(MaxSub(new int[]{-1,-2}));
+        System.out.println(MaxSub(new int[]{1}));
     }
 }
