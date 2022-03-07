@@ -1,6 +1,6 @@
 // Java program for reversing the linked list
 
-class ReverseLinkedList {
+class ReverseLinkedListTemp {
 
     static Node head;
 
@@ -44,7 +44,7 @@ class ReverseLinkedList {
     // Driver Code
     public static void main(String[] args)
     {
-        ReverseLinkedList list = new ReverseLinkedList();
+        ReverseLinkedListTemp list = new ReverseLinkedListTemp();
         list.head = new Node(85);
         list.head.next = new Node(15);
         list.head.next.next = new Node(4);
